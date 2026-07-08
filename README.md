@@ -10,7 +10,7 @@ Managing attendance and dietary restrictions manually for large groups is prone 
 
 ### Key Features
 - **Data Integration:** Automated fetching and parsing of attendance records directly from Google Sheets.
-- **Data Sorting:** Dynamic categorization of participants into specific groups (e.g., Dievčatá, Chlapci) while strictly filtering out invalid parsing artifacts.
+- **Data Sorting:** Dynamic categorization of participants into specific groups while strictly filtering out invalid parsing artifacts.
 - **Dietary Tracking:** Automated mapping of individual dietary requirements to specific participants.
 - **User Interface:** Modern, responsive desktop GUI for intuitive data handling.
 
