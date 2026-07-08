@@ -19,12 +19,5 @@ Managing attendance and dietary restrictions manually for large groups is prone 
 - **Language:** Python 3
 - **GUI Framework:** CustomTkinter
 - **Data Source:** Google Sheets API
-
-## 📷 Interface Preview
-
-*(Upload a screenshot of your application here, ensuring all real names and sensitive data are blurred/redacted.)*
-
-![App Preview](link-to-your-image.png)
-
 ---
 *Developed by Adam Martonik*
